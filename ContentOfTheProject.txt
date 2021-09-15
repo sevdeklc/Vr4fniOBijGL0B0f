@@ -1,0 +1,6 @@
+Twitter Scraping Project
+•	Scrapping tweets about "request for startup"
+•	Converting collected data to json and csv file
+•	Extracting detailed information of tweets (date of tweet, owner of tweet, username, number of likes, number of retweets, number of comments..)
+•	Displaying the data in the form of a table in the interface
+•	Sorted by total retweets, likes, discussions in ascending order and by date descending
